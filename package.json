@@ -1,5 +1,5 @@
 {
-  "name": "Ningoje-MD",
+  "name": "Aharoon-MD",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -69,7 +69,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ningoje/Ningoje-MD.git"
+    "url": "git+https://github.com/Aharoon990/Ningoje-MD.git"
   },
   "bugs": {
     "url": "https://github.com/ningoje/Ningoje-MD/issues"
