@@ -1,8 +1,8 @@
 {
-  "name": "Ningoje-MD",
+  "name": "Aharoon-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/ningoje/Ningoje-MD",
-  "logo": "https://telegra.ph/file/b9a68a3f295b47d0bd72e.jpg",
+  "logo": "https://telegra.ph/file/bfdac6adc5d38837f5a2a.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "heroku-22",
   "buildpacks": [
