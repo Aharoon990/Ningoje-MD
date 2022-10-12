@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/b9a68a3f295b47d0bd72e.jpg" alt="ningoje" width="350"/>
+<img src="https://telegra.ph/file/bfdac6adc5d38837f5a2a.jpg" alt="ningoje" width="350"/>
 </p>
 
 ## Ningoje
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["923421468673"]
+global.ownername = ["Aharoon"]
 ```
 </details>
 
